@@ -89,3 +89,4 @@ Lecture 10: Programming Languages. We conclude the course with an overview of im
 
 Beyond
 If you're interested in continuing, please sign up for Computer Science: Algorithms, Theory and Machines and then Algorithms, our course that covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations.
+
